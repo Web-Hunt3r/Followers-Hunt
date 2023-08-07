@@ -14,5 +14,7 @@ $ cd Followers-Hunt
 #####No additional requirements #####
 
 NOTE : You will need to close all the additional running programs except the software you used to run the code and
-a browser( The browser should have an account logged in to [Like4like.org] [Twitter.com] [Tiktok.com])
+a browser( The browser should have an account logged in to [Like4like.org] [Twitter.com] [Tiktok.com]).
 Its better to use fake accounts for Twitter and Tiktok as you surely wouldn't want to follow and like every other person's profile.
+
+Also, If the positions of buttons doesn't match due to difference in resolution. You can find the positions using test.py and change positions in followers-hunt.py
